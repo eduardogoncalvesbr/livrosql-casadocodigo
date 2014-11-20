@@ -1,6 +1,12 @@
 livrosql-casadocodigo
 =====================
 
+Olá, galera!!! Tudo bom? Fico muito feliz por você ter despendido um tempo para ler meu livro e o mais bacana, se você chegou até aqui, é sinal que ficou interessado em ver como tal da SQL funciona e deseja testar os conhecimentos adquiridos. Fique a vontade, abaixo, te explico como montar a base para testar os SQLs do livro e também utilizá-los em suas práticas. Conte comigo para qualquer coisa. Forte abraço e aproveite o material.
+
+Qualquer coisa me contate pelo email: eduardogoncalves.br@gmail.com
+
+Vamos lá…
+
 Para praticar melhor os conceitos do livro, sugiro que você crie esta base de dados e execute os exemplos mostrados em cada capítulo. Ainda está valendo aquela máxima que “A prática leva a perfeição”. Então não perca tempo e comece a treinar!!! ;-)1) Execute o programa SQL*Plus e conecte com um usuário que tenha privilégios para a criação de usuários, como, por exemplo, usuários com privilégios de DBA.	
 	ATENÇÃO: Não utilize ambientes de produção para estes testes. Utilize sempre bancos de dados de teste, principalmente, se estiverem utilizando usuários com privilégio de DBA, muito menos se você tiver pouca experiência para manipulá-los.
 2) Copie o script "criar_usuario.sql"  para o diretório raiz “C:\”, e execute o comando abaixo no SQL*plus, para criar um usuário específico que servirá para a criação da base de dados para os exemplos do livro.
