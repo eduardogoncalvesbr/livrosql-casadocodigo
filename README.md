@@ -11,7 +11,21 @@ Qualquer coisa me contate pelo email: eduardogoncalves.br@gmail.com
 
 Vamos lá…
 
-Para praticar melhor os conceitos do livro, sugiro que você crie esta base de dados e execute os exemplos mostrados em cada capítulo. Ainda está valendo aquela máxima que “A prática leva a perfeição”. Então não perca tempo e comece a treinar!!! ;-)1) Execute o programa SQL*Plus e conecte com um usuário que tenha privilégios para a criação de usuários, como, por exemplo, usuários com privilégios de DBA.	
+Para praticar melhor os conceitos do livro, sugiro que você crie esta base de dados e execute os exemplos mostrados em cada capítulo. Ainda está valendo aquela máxima que “A prática leva a perfeição”. Então não perca tempo e comece a treinar!!! ;-)
+
+====================================Novidadesss!!!!
+
+Segue o link de um vídeo que fiz sobre como utilizar um ambiente cloud da Oracle para executar os exemplos do Livro, sem que você precise criar um ambiente Oracle do zero!!!
+
+Este vídeo vai te mostrar como é possível executar os exemplos de SQL e PL\SQL através da ferramenta online da Oracle chama Live SQL!!!
+
+Assista ao vídeo e deixe seu comentário lá, curta e inscreva-se no canal!!! 
+
+Segue o link: 
+
+https://www.youtube.com/watch?v=dy62qYNPA_s&t=31s
+
+====================================1) Execute o programa SQL*Plus e conecte com um usuário que tenha privilégios para a criação de usuários, como, por exemplo, usuários com privilégios de DBA.	
 	ATENÇÃO: Não utilize ambientes de produção para estes testes. Utilize sempre bancos de dados de teste, principalmente, se estiverem utilizando usuários com privilégio de DBA, muito menos se você tiver pouca experiência para manipulá-los.
 2) Copie o script "criar_usuario.sql"  para o diretório raiz “C:\”, e execute o comando abaixo no SQL*plus, para criar um usuário específico que servirá para a criação da base de dados para os exemplos do livro.
 	@"C:\cria_usuario.sql”	Obs.: Para isto, você precisará estar conectado com um usuário que tenha privilégios de DBA, por exemplo.	Além de criar o usuário, este script já concede privilégios de criação de tabelas, os quais, serão utilizados para rodar os próximos scripts mencionados nos passos 4 e 5.3) Agora extraia o conteúdo dos arquivos "base_SCOTT.zip" e "base_HR.zip" no diretório raiz da sua máquina (C:\).
