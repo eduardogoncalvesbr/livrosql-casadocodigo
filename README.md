@@ -17,7 +17,7 @@ Para praticar melhor os conceitos do livro, sugiro que você crie esta base de d
 
 Segue o link de um vídeo que fiz sobre como utilizar um ambiente cloud da Oracle para executar os exemplos do Livro, sem que você precise criar um ambiente Oracle do zero!!!
 
-Este vídeo vai te mostrar como é possível executar os exemplos de SQL e PL\SQL através da ferramenta online da Oracle chama Live SQL!!!
+Este vídeo vai te mostrar como é possível executar os exemplos de SQL e PL/SQL através da ferramenta online da Oracle chama Live SQL!!!
 
 Assista ao vídeo e deixe seu comentário lá, curta e inscreva-se no canal!!! 
 
