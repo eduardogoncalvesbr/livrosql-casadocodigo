@@ -41,7 +41,7 @@ Aproveite, assista ao vídeo e deixe seu comentário lá, curta e inscreva-se no
 Segue o link: https://www.youtube.com/watch?v=dy62qYNPA_s&t=31s
 
 
-Se você escolher a alternativa 2), depois do banco de dados instalado, siga os passos a seguir para criar a base de dados para que você possa praticar os exemplos do livro:
+Se você escolher a alternativa 1) ou 2), depois do acesso ao banco de dados estar disponível para você, ou depois de você ter instalado o banco de dados, siga os passos a seguir para criar a base de dados para que você possa praticar os exemplos do livro:
 1) Execute o programa SQL*Plus e conecte com um usuário que tenha privilégios para a criação de usuários, como, por exemplo, usuários com privilégios de DBA.	
 	ATENÇÃO: Não utilize ambientes de produção para estes testes. Utilize sempre bancos de dados de teste, principalmente, se estiverem utilizando usuários com privilégio de DBA, muito menos se você tiver pouca experiência para manipulá-los.
 2) Baixe e copie o script "criar_usuario.sql"  para o diretório raiz “C:\”, e execute o comando abaixo no SQL*plus, para criar um usuário específico que servirá para a criação da base de dados para os exemplos do livro.
