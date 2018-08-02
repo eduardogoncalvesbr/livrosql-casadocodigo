@@ -40,6 +40,9 @@ Aproveite, assista ao vídeo e deixe seu comentário lá, curta e inscreva-se no
 
 Segue o link: https://www.youtube.com/watch?v=dy62qYNPA_s&t=31s
 
+### IMPORTANTE ####
+Para quem vai utilizar a ferramenta Live SQL da Oracle, alguns exemplos do livro, como, por exemplo, os capítulos que falam sobre o uso do SQL*Plus e seus comandos, estes exemplos não poderão ser testados. Isto, porque são comandos próprios da ferramenta SQL*Plus e não das linguagens SQL ou PL/SQL. Mas com exceção dos comandos do SQL*Plus, que também é uma ferramenta equivalente ao Live SQL, mas com mais recursos, todos os outros exemplo são para funcionar. Lembrem-se, qualquer dúvida, entre em contato comigo pelas canais de comunicação disponíveis acima!
+
 
 Se você escolher a alternativa 1) ou 2), depois do acesso ao banco de dados estar disponível para você, ou depois de você ter instalado o banco de dados, siga os passos a seguir para criar a base de dados para que você possa praticar os exemplos do livro:
 1) Execute o programa SQL*Plus e conecte com um usuário que tenha privilégios para a criação de usuários, como, por exemplo, usuários com privilégios de DBA.	
